@@ -1,13 +1,14 @@
 {
   "name": "node-binder",
   "description": "Mixin class for managing bindings in Node.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "event",
     "bind",
     "listener",
     "emitter"
   ],
+  "index": "./Binder.js",
   "maintainers": [
     {
       "name": "Ralph Holzmann",
