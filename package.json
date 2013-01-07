@@ -1,0 +1,29 @@
+{
+  "name": "node-binder",
+  "description": "Mixin class for managing bindings in Node.js",
+  "version": "0.0.1",
+  "keywords": [
+    "event",
+    "bind",
+    "listener",
+    "emitter"
+  ],
+  "maintainers": [
+    {
+      "name": "Ralph Holzmann",
+      "email": "ralphholzmann@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:ralphholzmann/node-binder.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ]
+}
